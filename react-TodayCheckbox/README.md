@@ -1,8 +1,10 @@
-# React + Vite
+## 소개
+1. tailwind로 하는 체크박스 과제.
+2. 오늘 배운 피자토핑 복습 과제.
+3. 지코바를 이용하여 추가주문 체크박스.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 추가 메뉴 구성
+1. 떡사리 추가
+2. 마요네즈 추가
+3. 밥 추가
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
